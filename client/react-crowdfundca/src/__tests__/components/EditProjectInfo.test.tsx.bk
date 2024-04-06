@@ -1,0 +1,62 @@
+global.ClipboardEvent = class {};
+global.DragEvent = class {};
+import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
+import { render, fireEvent, screen, waitFor } from '@testing-library/react';
+import '@testing-library/jest-dom';
+import EditProjectInfo from '../../components/views/EditProjectInfo'; // Adjust the import path as necessary
+import * as ApiService from '../../services/apiService';
+
+// Setting up mock for useNavigate and API calls
+jest.mock('react-router-dom', () => ({
+  ...jest.requireActual('react-router-dom'),
+  useNavigate: () => jest.fn(),
+}));
+
+jest.mock('../../services/apiService', () => ({
+  submitData: jest.fn(),
+  spSubmitData: jest.fn(),
+  submitUploadData: jest.fn(),
+}));
+
+describe('EditProjectInfo', () => {
+  beforeEach(() => {
+    // Reset mocks before each test
+    ApiService.submitData.mockClear();
+    ApiService.spSubmitData.mockClear();
+    ApiService.submitUploadData.mockClear();
+
+    // Mock implementation if needed
+    ApiService.submitData.mockResolvedValue({ success: true });
+    // Same for spSubmitData and submitUploadData if they're used in the component
+  });
+
+  test('renders without crashing', async () => {
+    render(
+      <BrowserRouter>
+        <EditProjectInfo />
+      </BrowserRouter>
+    );
+
+    // Adjust this to match an element that would be present after successful render
+    // expect(screen.getByText(/edit project info/i)).toBeInTheDocument();
+  });
+
+  test('form submission triggers API call', async () => {
+    render(
+      <BrowserRouter>
+        <EditProjectInfo />
+      </BrowserRouter>
+    );
+
+    // Example of interacting with form elements before submission
+    fireEvent.change(screen.getByLabelText('Project Name'), { target: { value: 'New Project Name' } });
+
+    // Adjust selectors based on your actual implementation
+    fireEvent.click(screen.getByRole('button', { name: /save/i }));
+
+    // If there are specific assertions about the call (e.g., arguments passed), add them here
+  });
+
+  // Add more tests as needed for different aspects of the component
+});

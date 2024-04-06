@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7362334b-1ff6-4e84-a07f-76cae889b99f" name="Changes" comment="Add profile unit tests.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://git.uwaterloo.ca/z93zhu/ece651_team7.git&quot;,
+    &quot;second&quot;: &quot;854c2e86-c5b4-41de-bd1d-cc10eb8b847a&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="projectSectionDev" />
+                    <option name="lastUsedInstant" value="1708200316" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="joint-debugging" />
+                    <option name="lastUsedInstant" value="1708200295" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1707074837" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/server/crowdfundca-backend/node_modules/http-errors/index.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2buJ6sWOWRTRCHUaYUskOGcx3TN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "Jest.Auth Routes.executor": "Run",
+    "Jest.GET /getCategoryInfoById.executor": "Run",
+    "Jest.GET /getCategorys.executor": "Run",
+    "Jest.GET /showProjectBy endpoint.executor": "Run",
+    "Jest.GET /showProjectBy endpoint.should return projects matching the category ID.executor": "Run",
+    "Jest.POST /deleteproject.executor": "Run",
+    "Jest.POST /showUserDonateProject.executor": "Run",
+    "Jest.POST /showUserProject.executor": "Run",
+    "Jest.POST /updateProject.can not update project because userid not correct.executor": "Run",
+    "Jest.POST /updateProject.executor": "Run",
+    "Jest.POST /updateProjectPrice.executor": "Run",
+    "Jest.POST /uploadProject.executor": "Run",
+    "Node.js.app.js.executor": "Debug",
+    "Node.js.www.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "20.11.0",
+    "javascript.nodejs.core.library.typings.version": "20.11.30",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/ece651_team7/server/crowdfundca-backend/bin/www",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "E:/ece651_team7/server/crowdfundca-backend/node_modules/jest",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "npm.start.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "E:\\ece651_team7\\server\\crowdfundca-backend\\node_modules\\prettier",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "E:\\ece651_team7\\client\\react-crowdfundca\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ece651_team7\server\crowdfundca-backend\services" />
+      <recent name="E:\ece651_team7\server\crowdfundca-backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.POST /uploadProject">
+    <configuration name="GET /getCategoryInfoById" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/server/crowdfundca-backend/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/server/crowdfundca-backend" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/server/crowdfundca-backend/__test__/project.test.js" />
+      <test-names>
+        <test-name value="GET /getCategoryInfoById" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="GET /getCategorys" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/server/crowdfundca-backend/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/server/crowdfundca-backend" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/server/crowdfundca-backend/__test__/project.test.js" />
+      <test-names>
+        <test-name value="GET /getCategorys" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="POST /deleteproject" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/server/crowdfundca-backend/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/server/crowdfundca-backend" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/server/crowdfundca-backend/__test__/project.test.js" />
+      <test-names>
+        <test-name value="POST /deleteproject" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="POST /showUserDonateProject" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/server/crowdfundca-backend/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/server/crowdfundca-backend" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/server/crowdfundca-backend/__test__/project.test.js" />
+      <test-names>
+        <test-name value="POST /showUserDonateProject" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="POST /uploadProject" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/server/crowdfundca-backend/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/server/crowdfundca-backend" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/server/crowdfundca-backend/__test__/project.test.js" />
+      <test-names>
+        <test-name value="POST /uploadProject" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="www" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="server/crowdfundca-backend/bin/www" working-dir="$PROJECT_DIR$">
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" url="http://localhost:3000" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Jest.GET /getCategoryInfoById" />
+      <item itemvalue="Jest.GET /getCategorys" />
+      <item itemvalue="Jest.POST /deleteproject" />
+      <item itemvalue="Jest.POST /showUserDonateProject" />
+      <item itemvalue="Jest.POST /uploadProject" />
+      <item itemvalue="Node.js.www" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.POST /uploadProject" />
+        <item itemvalue="Jest.GET /getCategorys" />
+        <item itemvalue="Jest.GET /getCategoryInfoById" />
+        <item itemvalue="Jest.POST /deleteproject" />
+        <item itemvalue="Jest.POST /showUserDonateProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7362334b-1ff6-4e84-a07f-76cae889b99f" name="Changes" comment="" />
+      <created>1707058858952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707058858952</updated>
+      <workItem from="1707058861050" duration="1470000" />
+      <workItem from="1707060347489" duration="3367000" />
+      <workItem from="1707063739202" duration="13390000" />
+      <workItem from="1707077504626" duration="1179000" />
+      <workItem from="1707182603121" duration="27695000" />
+      <workItem from="1707252587521" duration="298000" />
+      <workItem from="1708220169944" duration="4801000" />
+      <workItem from="1708273127166" duration="837000" />
+      <workItem from="1709333354788" duration="60881000" />
+      <workItem from="1711410691799" duration="1601000" />
+      <workItem from="1712187849374" duration="1492000" />
+    </task>
+    <task id="LOCAL-00001" summary="Some git operations">
+      <option name="closed" value="true" />
+      <created>1709329850971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709329850971</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git patch">
+      <option name="closed" value="true" />
+      <created>1709331984009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709331984009</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dependency repair">
+      <option name="closed" value="true" />
+      <created>1709334060378</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709334060378</updated>
+    </task>
+    <task id="LOCAL-00004" summary="UserProfile setup, update ProfilePic missing, UserAuth adjustments finished, UserAdmin missing.">
+      <option name="closed" value="true" />
+      <created>1709368558531</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709368558531</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ProfilePic finished, UserAdmin TBD.">
+      <option name="closed" value="true" />
+      <created>1709415867889</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709415867889</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished Admin, support both profile and project manipulations, not support project files manipulations.">
+      <option name="closed" value="true" />
+      <created>1710314442652</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710314442652</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Finished auth unit tests.">
+      <option name="closed" value="true" />
+      <created>1711183953838</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711183953838</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add profile unit tests.">
+      <option name="closed" value="true" />
+      <created>1711188347830</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711188347830</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/form/validation.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/theme.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/components/Snackbar.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/views/ProductHowItWorks.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/views/ProductCategories.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/ForgotPassword.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/form/FormFeedback.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/views/ProductHero.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/views/ProductValues.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/components/Typography.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/views/AppAppBar.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/SignUp.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/Privacy.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/components/AppBar.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/components/Button.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/views/AppFooter.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/form/defer.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/views/ProductCTA.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/paperbase/Paperbase.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/paperbase/Navigator.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/paperbase/Content.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/paperbase/Header.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/components/Toolbar.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/views/ProductHeroLayout.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/form/RFTextField.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/withRoot.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/components/TextField.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/components/Markdown.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/components/Paper.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/form/FormButton.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/Terms.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/Home.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/views/AppForm.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/modules/views/ProductSmokingHero.js" />
+        <option value="$PROJECT_DIR$/client/react-crowdfundca/templates/onepirate/SignIn.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="User-Backend-Codes" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="User-Backend-Codes" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added proxy setup and removed userid info in sign-in request." />
+    <MESSAGE value="Some git operations" />
+    <MESSAGE value="git patch" />
+    <MESSAGE value="dependency repair" />
+    <MESSAGE value="UserProfile setup, update ProfilePic missing, UserAuth adjustments finished." />
+    <MESSAGE value="UserProfile setup, update ProfilePic missing, UserAuth adjustments finished, UserAdmin missing." />
+    <MESSAGE value="ProfilePic finished, UserAdmin TBD." />
+    <MESSAGE value="Finished Admin, support both profile and project manipulations, not support project files manipulations." />
+    <MESSAGE value="Finished auth unit tests." />
+    <MESSAGE value="Add profile unit tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add profile unit tests." />
+  </component>
+</project>
